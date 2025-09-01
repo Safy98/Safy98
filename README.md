@@ -43,16 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   </div>
 
-## In Progress Skills:
-<div align="left">
-   
-  </div>
-  
-## Planned Skills:
-<div align="left">
- 
-</div>
-
 <br>
 
 
